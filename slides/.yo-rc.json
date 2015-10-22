@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Implementing Function.prototype.bind",
+    "packageVersion": "0.0.1",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "VoltiSubito",
+    "githubRepository": "oci-bind-lunch"
+  }
+}
