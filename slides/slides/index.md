@@ -1,10 +1,12 @@
+## OCI Tech Lunch 
 
-# Implementing Function.prototype.bind
+### Implementing Function.prototype.bind
 
-From the terminal, pop in:
+----
 
-  ```yo reveal:slide "Slide Title"```
+10/23/2015
 
-Available options:
+_Jason Schindler_ 
 
- ```--markdown --attributes --notes```
+_Senior Software Engineer_
+

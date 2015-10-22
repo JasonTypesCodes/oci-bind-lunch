@@ -1,1 +1,18 @@
-["index.md"]
+[
+    "index.md",
+    "why.md",
+    "what-is-it.md",
+    "what-is-it-summary.md",
+    "simple-example.md",
+    "function-properties.md",
+    "functions-are-objects.md",
+    "monkeying-with-prototypes.md",
+    "first-class-functions.md",
+    "what-is-this.md",
+    "passing-this.md",
+    "call-and-apply.md",
+    "bind-example-with-this.md",
+    "variable-number-of-arguments.md",
+    "the-arguments-array.md",
+    "putting-it-all-together.md"
+]
